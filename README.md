@@ -1,4 +1,4 @@
-<h1>hi human! 👋</h1>
+<h1>Hi! 👋</h1>
 
 <h3>who am i?</h3>
 
@@ -34,13 +34,3 @@ Cybersecurity · Software Development · Mobile Development · Machine Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40px">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px">&nbsp;&nbsp;
-
-<h3>my wonderful stats</h3>
-
-```json
-{
-  "joined": "GitHub Member",
-  "focus": "Cybersecurity, AI, and Mobile Development",
-  "projects": "Luma · AI Proxy · Voice Gender Detection · More coming soon",
-  "commit_style": "Clean, secure, and privacy-focused"
-}
