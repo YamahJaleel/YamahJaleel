@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Yamah Jaleel</h1>
+<h1 align="left">Hi 👋, I'm Yamah </h1>
 
 ## 👨‍💻 About Me:
 🛡️  Cybersecurity @ TD Bank.<br>
