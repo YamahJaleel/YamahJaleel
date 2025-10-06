@@ -1,6 +1,4 @@
-<h1>Hi! 👋</h1>
-
-<h2>👤 Yamah Jaleel</h2>
+<h1>Hi! 👋 My name is Yamah</h1>
 
 <p>
 Cybersecurity · Software Development · Mobile Development · Machine Learning
