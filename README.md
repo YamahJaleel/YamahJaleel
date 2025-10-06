@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Yamah Jaleel</h1>
 
 ## 👨‍💻 About Me:
-🛡️  Cybersecurity Intern @ TD Bank (EUC Governance).<br>
+🛡️  Cybersecurity @ TD Bank.<br>
 💻  Focused on **Cybersecurity**, **Software Development**, **Mobile Development**, and **Machine Learning**.<br>
 📱  Currently building **Luma**, a privacy-first social platform with end-to-end encryption.<br>
 ⚙️  Passionate about **data protection**, **secure architectures**, and **AI integrations**.<br>
