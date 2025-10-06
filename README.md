@@ -1,7 +1,5 @@
 <h1>Hi! 👋</h1>
 
-<h3>who am i?</h3>
-
 <h2>👤 Yamah Jaleel</h2>
 
 <p>
