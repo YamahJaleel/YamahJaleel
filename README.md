@@ -3,10 +3,8 @@
 ## 👨‍💻 About Me:
 🛡️  Cybersecurity @ TD Bank.<br>
 💻  Focused on **Cybersecurity**, **Software Development**, **Mobile Development**, and **Machine Learning**.<br>
-📱  Currently building **Luma**, a privacy-first social platform with end-to-end encryption.<br>
 ⚙️  Passionate about **data protection**, **secure architectures**, and **AI integrations**.<br>
 🌱  Exploring **local LLMs**, **privacy engineering**, and **encryption frameworks**.<br>
-💬  Ask me about secure app design, React Native, or AI privacy best practices.<br>
 
 ---
 
