@@ -4,7 +4,7 @@
 🛡️  Cybersecurity @ TD Bank.<br>
 💻  Focused on **Cybersecurity**, **Software Development**, **Mobile Development**, and **Machine Learning**.<br>
 ⚙️  Passionate about **data protection**, **secure architectures**, and **AI integrations**.<br>
-🌱  Exploring **local LLMs**, **privacy engineering**, and **encryption frameworks**.<br>
+🌱  Exploring **LLMs**, **ML Models**, **privacy engineering**, and **encryption frameworks**.<br>
 
 ---
 
