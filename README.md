@@ -1,5 +1,9 @@
 <h1 align="left">Hi 👋, I'm Yamah </h1>
 
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="600" alt="Cool GitHub Animation">
+</p>
+
 ## 👨‍💻 About Me:
 🛡️  Cybersecurity @ TD Bank.<br>
 💻  Focused on **Cybersecurity**, **Software Development**, **Mobile Development**, **Artificial Intelligence**, **Machine Learning**, **E2E Encryption**, **Governance Risk and Compliance**, and **Data Protection**.<br>
@@ -13,7 +17,7 @@
 ![Expo](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,7 +38,7 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-0099FF?style=for-the-badge&logo=flydotio&logoColor=white)
+![Fly.io](https://img.shields.io-badge/Fly.io-0099FF?style=for-the-badge&logo=flydotio&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
 ---
@@ -50,7 +54,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=yamahjaleel&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly customized for Yamah Jaleel -->
