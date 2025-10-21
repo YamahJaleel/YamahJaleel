@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me:
 🛡️  Cybersecurity @ TD Bank.<br>
-💻  Focused on **Cybersecurity**, **Software Development**, **Mobile Development**, **Artificial Intelligence**, **Machine Learning**, **E2E Encryption**, **Governance Risk and Compliance** and **Data Protection**.<br>
+💻  Focused on **Cybersecurity**, **Software Development**, **Mobile Development**, **Artificial Intelligence**, **Machine Learning**, **E2E Encryption**, **Governance Risk and Compliance**, and **Data Protection**.<br>
 ⚙️  Passionate about **data protection**, **secure architectures**, and **AI integrations**.<br>
 🌱  Exploring **LLMs**, **ML Models**, **privacy engineering**, and **encryption frameworks**.<br>
 
@@ -36,6 +36,18 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Fly.io](https://img.shields.io/badge/Fly.io-0099FF?style=for-the-badge&logo=flydotio&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+
+---
+
+## 📊 GitHub Analytics:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yamahjaleel&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=yamahjaleel&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamahjaleel&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
